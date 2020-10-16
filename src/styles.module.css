@@ -237,7 +237,7 @@ main {
   background-image: url(./images/forest.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  padding: 5em 1em 1em 1em;
+  padding: 1em;
 }
 
 .card {
@@ -262,6 +262,12 @@ main p {
 }
 
 @media (min-width: 600px) {
+}
+
+@media (min-width: 400px) {
+  main {
+    padding: 5em 1em 1em 1em;
+  }
 }
 
 /* Footer */
