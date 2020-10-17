@@ -271,9 +271,6 @@ main p {
 }
 
 @media (min-width: 600px) {
-}
-
-@media (min-width: 400px) {
   main {
     padding: 5em 1em 1em 1em;
   }
